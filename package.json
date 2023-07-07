@@ -1,0 +1,21 @@
+{
+  "name": "study-auto",
+  "version": "1.0.0",
+  "description": "## Usage for auto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "6rawn <103933406+6rawn@users.noreply.github.com>",
+  "license": "ISC",
+  "dependencies": {
+    "auto": "^10.46.0"
+  },
+  "repository": "6rawn/study-auto",
+  "auto": {
+    "plugins": [
+      "npm"
+    ]
+  }
+}
