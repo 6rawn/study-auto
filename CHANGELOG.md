@@ -1,3 +1,15 @@
+# v0.2.1 (Fri Jul 07 2023)
+
+#### 🐛 Bug Fix
+
+- Use NODE_AUTH_TOKEN [#5](https://github.com/6rawn/study-auto/pull/5) ([@6rawn](https://github.com/6rawn))
+
+#### Authors: 1
+
+- 6rawn ([@6rawn](https://github.com/6rawn))
+
+---
+
 # v0.2.0 (Fri Jul 07 2023)
 
 #### 🚀 Enhancement
