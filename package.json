@@ -1,6 +1,6 @@
 {
-  "name": "study-auto",
-  "version": "1.0.0",
+  "name": "@6rawn/study-auto",
+  "version": "0.1.0",
   "description": "## Usage for auto",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",
-    "access": "public"
+    "access": "restricted"
   }
 }
